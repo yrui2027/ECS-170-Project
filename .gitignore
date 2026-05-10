@@ -1,0 +1,15 @@
+# Original datasets
+MNIST
+ORL
+CIFAR
+
+# Training outputs
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local editor / OS files
+.DS_Store
+.idea/
